@@ -1,0 +1,6 @@
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\bin\Debug\CodeJam1.exe.config
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\bin\Debug\CodeJam1.exe
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\bin\Debug\CodeJam1.pdb
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\obj\Debug\CodeJam1.csprojResolveAssemblyReference.cache
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\obj\Debug\CodeJam1.exe
+c:\users\sdalvi\documents\visual studio 2012\Projects\Training\CodeJam1\obj\Debug\CodeJam1.pdb
